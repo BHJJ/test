@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">趋紧警告</string>
+    <string name="tv_title">当前设置</string>
+    <string name="tv_longitude">经度</string>
+    <string name="tv_latitude">纬度</string>
+    <string name="tv_radius">半径</string>
+    <string name="tv_telephone">手机号码</string>
+    <string name="btn_set">设置</string>
+    <string name="btn_true">确定</string>
+
+</resources>
